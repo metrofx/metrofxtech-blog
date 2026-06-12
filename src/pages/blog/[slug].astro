@@ -81,6 +81,17 @@ const canonical = new URL(`/blog/${post.slug}/`, Astro.site).toString();
       text-transform: uppercase;
       color: var(--muted);
     }
+    .hero-image {
+      max-width: 720px;
+      margin: 32px auto 0;
+      padding: 0 24px;
+    }
+    .hero-image img {
+      width: 100%;
+      height: auto;
+      border-radius: 6px;
+      display: block;
+    }
     .article-body {
       max-width: 720px;
       margin: 0 auto;
@@ -246,6 +257,12 @@ const canonical = new URL(`/blog/${post.slug}/`, Astro.site).toString();
       <p class="hero-deck">{post.data.description}</p>
       <div class="hero-meta">{formatDate(post.data.date)}</div>
     </header>
+
+    {post.data.image && (
+      <div class="hero-image">
+        <img src={post.data.image} alt={post.data.title} loading="lazy" />
+      </div>
+    )}
 
     {post.data.source && (
       <div class="source-link">
