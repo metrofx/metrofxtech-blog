@@ -96,6 +96,7 @@ const canonical = new URL(`/blog/${post.slug}/`, Astro.site).toString();
       float: left;
       line-height: 0.75;
       margin: 6px 8px 0 0;
+      padding-right: 10px;
       color: var(--accent);
     }
     .article-body :global(h2) {
@@ -227,6 +228,7 @@ const canonical = new URL(`/blog/${post.slug}/`, Astro.site).toString();
       .article-body { padding: 28px 16px 60px; }
       .article-body :global(p:first-of-type)::first-letter {
         font-size: 3.6em;
+        padding-right: 8px;
       }
       .article-body :global(blockquote) {
         font-size: 1.15rem;
