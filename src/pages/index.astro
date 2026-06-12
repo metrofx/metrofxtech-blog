@@ -16,33 +16,51 @@ function formatDate(date: Date) {
 
 <Layout title="metrofxtech — Blog teknologi, AI, dan geopolitik" description="Kumpulan artikel teknologi, AI, dan geopolitik dalam Bahasa Indonesia." type="website">
   <style>
-    .site-header {
+    .masthead {
+      background: var(--ink);
+      color: var(--paper);
       text-align: center;
-      padding: 4rem 2rem 2rem;
-      border-bottom: 1px solid var(--border);
+      padding: 12px 24px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
     }
-    .site-header h1 {
+    .hero {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 48px 24px 32px;
+      border-bottom: 2px solid var(--ink);
+    }
+    .hero-eyebrow {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 16px;
+    }
+    .hero h1 {
       font-family: 'Playfair Display', serif;
-      font-size: clamp(2rem, 5vw, 3.5rem);
+      font-size: clamp(2.4rem, 6vw, 3.8rem);
       font-weight: 900;
-      letter-spacing: -0.02em;
-      background: linear-gradient(135deg, #fff 0%, var(--accent) 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
+      line-height: 1.1;
+      color: var(--ink);
+      margin-bottom: 20px;
+      letter-spacing: -0.01em;
     }
-    .site-header p {
-      margin-top: 1rem;
-      color: var(--text-muted);
-      font-size: 1.05rem;
-      max-width: 500px;
-      margin-left: auto;
-      margin-right: auto;
+    .hero-deck {
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--muted);
+      font-weight: 300;
+      max-width: 560px;
+      line-height: 1.6;
     }
     .post-list {
       max-width: 720px;
       margin: 0 auto;
-      padding: 3rem 2rem 6rem;
+      padding: 40px 24px 80px;
       list-style: none;
     }
     .post-item {
@@ -52,24 +70,25 @@ function formatDate(date: Date) {
     .post-item:first-child { padding-top: 0; }
     .post-item:last-child { border-bottom: none; }
     .post-meta {
-      font-size: 0.8rem;
-      color: var(--text-dim);
-      letter-spacing: 0.05em;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 0.15em;
       text-transform: uppercase;
+      color: var(--muted);
       margin-bottom: 0.5rem;
     }
     .post-title {
       font-family: 'Playfair Display', serif;
-      font-size: 1.6rem;
+      font-size: 1.5rem;
       font-weight: 700;
       line-height: 1.3;
-      color: #fff;
+      color: var(--ink);
       margin-bottom: 0.5rem;
     }
     .post-title a { color: inherit; }
     .post-title a:hover { color: var(--accent); text-decoration: none; }
     .post-desc {
-      color: var(--text-muted);
+      color: var(--muted);
       font-size: 0.95rem;
       line-height: 1.6;
     }
@@ -80,26 +99,44 @@ function formatDate(date: Date) {
       flex-wrap: wrap;
     }
     .post-tag {
-      font-size: 0.7rem;
-      padding: 0.25rem 0.6rem;
-      border: 1px solid var(--border);
-      border-radius: 100px;
-      color: var(--text-dim);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 0.15em;
       text-transform: uppercase;
-      letter-spacing: 0.05em;
+      color: var(--accent);
+      border: 1px solid var(--border);
+      padding: 4px 10px;
+      border-radius: 4px;
     }
     .footer {
+      background: var(--ink);
+      color: #888;
       text-align: center;
-      padding: 3rem 2rem;
-      border-top: 1px solid var(--border);
-      color: var(--text-dim);
-      font-size: 0.85rem;
+      padding: 24px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      line-height: 1.8;
+    }
+    .footer a {
+      color: #a8d5a2;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 600px) {
+      body { font-size: 16px; }
+      .hero { padding: 32px 16px 24px; }
+      .post-list { padding: 28px 16px 60px; }
     }
   </style>
 
-  <header class="site-header">
+  <div class="masthead">Teknologi, AI & Geopolitik</div>
+
+  <header class="hero">
+    <div class="hero-eyebrow">Blog</div>
     <h1>metrofxtech</h1>
-    <p>Artikel teknologi, AI, dan geopolitik — dalam Bahasa Indonesia</p>
+    <p class="hero-deck">Kumpulan artikel teknologi, AI, dan geopolitik dalam Bahasa Indonesia. Ditulis bebas dari berbagai sumber.</p>
   </header>
 
   <ul class="post-list">
@@ -122,6 +159,6 @@ function formatDate(date: Date) {
   </ul>
 
   <footer class="footer">
-    <p>metrofxtech — ditulis dengan Hermes Agent</p>
+    <p>metrofxtech — blog yang diotomasi dengan Hermes Agent</p>
   </footer>
 </Layout>
