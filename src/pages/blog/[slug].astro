@@ -1,0 +1,216 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+
+function formatDate(date: Date) {
+  return new Intl.DateTimeFormat('id-ID', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  }).format(date);
+}
+
+const canonical = new URL(`/blog/${post.slug}/`, Astro.site).toString();
+---
+
+<Layout
+  title={post.data.title}
+  description={post.data.description}
+  type="article"
+  date={post.data.date.toISOString()}
+  lang={post.data.lang}
+>
+  <style>
+    .article-header {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 3rem 2rem 1rem;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+    }
+    .article-tag {
+      display: inline-block;
+      padding: 0.4rem 1rem;
+      background: var(--accent-glow);
+      border: 1px solid rgba(245, 158, 11, 0.3);
+      border-radius: 100px;
+      color: var(--accent);
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 1.5rem;
+    }
+    .article-header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.8rem, 5vw, 3rem);
+      font-weight: 900;
+      line-height: 1.15;
+      color: #fff;
+      margin-bottom: 1rem;
+    }
+    .article-subtitle {
+      color: var(--text-muted);
+      font-size: 1.15rem;
+      max-width: 560px;
+      margin: 0 auto 1rem;
+    }
+    .article-meta {
+      font-size: 0.85rem;
+      color: var(--text-dim);
+      margin-bottom: 0.5rem;
+    }
+    .article-source {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      margin-top: 0.5rem;
+    }
+    .article-source a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid var(--accent);
+    }
+    .article-source a:hover {
+      border-bottom: none;
+    }
+    .article-body {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 3rem 2rem 5rem;
+    }
+    .article-body :global(p) {
+      margin-bottom: 1.75rem;
+      font-size: 1.1rem;
+      color: var(--text);
+    }
+    .article-body :global(h2) {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.8rem;
+      font-weight: 700;
+      margin: 3rem 0 1.5rem;
+      color: #fff;
+      position: relative;
+      padding-left: 1.5rem;
+    }
+    .article-body :global(h2::before) {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0.5rem;
+      bottom: 0.5rem;
+      width: 4px;
+      background: var(--accent);
+      border-radius: 2px;
+    }
+    .article-body :global(h3) {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin: 2.5rem 0 1rem;
+      color: var(--text-muted);
+    }
+    .article-body :global(ul), .article-body :global(ol) {
+      margin-bottom: 1.75rem;
+      padding-left: 1.5rem;
+    }
+    .article-body :global(li) {
+      margin-bottom: 0.75rem;
+      color: var(--text);
+      font-size: 1.05rem;
+    }
+    .article-body :global(strong) {
+      color: #fff;
+      font-weight: 600;
+    }
+    .article-body :global(em) {
+      color: var(--text-muted);
+      font-style: italic;
+    }
+    .article-body :global(blockquote) {
+      background: var(--surface);
+      border-left: 4px solid var(--accent);
+      padding: 1.5rem 2rem;
+      margin: 2.5rem 0;
+      border-radius: 0 8px 8px 0;
+      font-family: 'Playfair Display', serif;
+      font-size: 1.25rem;
+      font-style: italic;
+      color: #fff;
+    }
+    .article-body :global(blockquote p) {
+      margin: 0;
+    }
+    .article-body :global(hr) {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 2.5rem 0;
+    }
+    .article-body :global(a) {
+      color: var(--accent);
+      border-bottom: 1px solid var(--accent);
+    }
+    .article-body :global(a:hover) {
+      border-bottom: none;
+    }
+    .article-footer {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 2rem 4rem;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      color: var(--text-dim);
+      font-size: 0.85rem;
+    }
+    .article-footer a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid var(--accent);
+    }
+    .article-footer a:hover {
+      border-bottom: none;
+    }
+    .back-link {
+      display: inline-block;
+      margin-bottom: 1rem;
+      font-size: 0.85rem;
+      color: var(--text-dim);
+    }
+    .back-link:hover {
+      color: var(--accent);
+    }
+  </style>
+
+  <article>
+    <header class="article-header">
+      <span class="article-tag">Artikel</span>
+      <h1>{post.data.title}</h1>
+      <p class="article-subtitle">{post.data.description}</p>
+      <div class="article-meta">{formatDate(post.data.date)}</div>
+      {post.data.source && (
+        <div class="article-source">
+          Sumber: <a href={post.data.source} target="_blank" rel="noopener">{post.data.sourceTitle || post.data.source}</a>
+        </div>
+      )}
+    </header>
+
+    <div class="article-body">
+      <Content />
+    </div>
+
+    <footer class="article-footer">
+      <a href="/" class="back-link">← Kembali ke beranda</a>
+      <p>metrofxtech — ditulis dengan Hermes Agent</p>
+    </footer>
+  </article>
+</Layout>
