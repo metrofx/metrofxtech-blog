@@ -4,7 +4,7 @@ description: "Analisis 1500+ baris system prompt Claude Fable 5 yang bocor — 6
 date: 2026-06-13
 source: "https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/CLAUDE-FABLE-5.md"
 sourceTitle: "elder-plinius / CL4R1T4S"
-image: "/images/hero-prompt-engineering.svg"
+image: "/images/hero-claude-fable-5.jpg"
 lang: "id"
 draft: false
 ---
