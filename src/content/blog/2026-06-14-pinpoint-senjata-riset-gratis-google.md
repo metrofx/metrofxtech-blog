@@ -12,7 +12,7 @@ draft: false
 
 Bayangkan kamu punya 200.000 dokumen, ribuan email, rekaman audio berjam-jam, dan foto catatan tangan yang menumpuk. Di mana kamu mulai mencari satu informasi spesifik di dalam semua kekacauan digital itu?
 
-Sampai bulan lalu, jawabannya tergantung pada apakah kamu jurnalis atau akademisi. Karena mereka punya akses ke Google Pinpoint, dan kamu tidak.
+Sampai bulan lalu, jawabannya tergantung pada apakah kamu jurnalis atau akademisi. Karena mereka punya akses ke [Google Pinpoint](https://journaliststudio.google.com/pinpoint/), dan kamu tidak.
 
 Tapi sejak 3 Juni 2026, pintu itu terbuka untuk semua orang.
 
