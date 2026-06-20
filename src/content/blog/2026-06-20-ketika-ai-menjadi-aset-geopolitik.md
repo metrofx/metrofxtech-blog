@@ -9,7 +9,7 @@ draft: false
 
 Selama beberapa tahun terakhir, kita terbiasa melihat AI sebagai produk teknologi. Ada model baru, benchmark baru, dan perlombaan performa yang seolah hanya soal siapa yang paling pintar atau paling murah.
 
-Pekan lalu, asumsi itu runtuh.
+Pada 12 Juni 2026, asumsi itu runtuh.
 
 Pemerintah Amerika Serikat memerintahkan Anthropic untuk memblokir akses terhadap dua model AI andalannya, Fable 5 dan Mythos 5, bagi seluruh warga negara non-AS. Karena menyaring akses berdasarkan kewarganegaraan secara reliable itu sulit dan berisiko tidak patuh, hasil akhirnya jauh lebih ekstrem: model tersebut dimatikan untuk semua orang.
 
