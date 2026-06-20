@@ -80,3 +80,5 @@ Kita memasuki era ketika model AI diperlakukan seperti infrastruktur strategis, 
 Pertanyaannya bukan lagi model mana yang paling pintar.
 
 Pertanyaannya adalah: siapa yang mengendalikan model tersebut ketika keadaan berubah?
+
+Karena yang menentukan masa depan bisnismu bukan lagi performa modelnya. Melainkan siapa yang berhak mematikan tombolnya.
