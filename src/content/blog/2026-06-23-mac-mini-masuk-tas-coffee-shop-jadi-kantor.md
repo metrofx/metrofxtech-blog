@@ -3,6 +3,7 @@ title: "Mac Mini Masuk Tas, Coffee Shop Jadi Kantor: Tanda Coffee Shop Masa Depa
 description: "Fenomena pekerja digital membawa Mac mini ke coffee shop bukan sekadar tren perangkat. Ini adalah sinyal perubahan fungsi coffee shop dari tempat minum kopi menjadi experience space dan pusat komunitas."
 date: 2026-06-23
 tags: ["CoffeeShop", "RemoteWork", "Community", "FutureOfWork", "ExperienceSpace", "DigitalNomad", "ThirdPlace"]
+image: "/images/mac-mini-masuk-tas-coffee-shop.jpg"
 lang: "id"
 draft: false
 ---
