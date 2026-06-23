@@ -27,6 +27,7 @@ const canonical = new URL(`/blog/${post.slug}/`, Astro.site).toString();
 <Layout
   title={post.data.title}
   description={post.data.description}
+  image={post.data.image}
   type="article"
   date={post.data.date.toISOString()}
   lang={post.data.lang}
