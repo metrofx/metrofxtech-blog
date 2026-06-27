@@ -3,6 +3,7 @@ title: "Era Agentic AI: Pelajaran dari Google I/O 2026 untuk Masa Depan Pekerjaa
 description: "Google I/O 2026 menandai pergeseran dari Generative AI menuju Agentic AI. Bukan lagi soal AI yang menunggu instruksi, melainkan AI yang bergerak mandiri untuk kita."
 date: 2026-06-27
 tags: ["AI", "AgenticAI", "GoogleIO2026", "Gemini", "FutureOfWork", "Productivity", "Leadership"]
+image: "/images/hero-google-io-2026.jpg"
 lang: "id"
 draft: false
 ---
