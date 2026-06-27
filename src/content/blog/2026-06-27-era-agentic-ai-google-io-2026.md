@@ -1,5 +1,5 @@
 ---
-title: "Era Agentic AI: Apa yang Google I/O 2026 Katakan tentang Masa Depan Pekerjaan Kita"
+title: "Era Agentic AI: Pelajaran dari Google I/O 2026 untuk Masa Depan Pekerjaan Kita"
 description: "Google I/O 2026 menandai pergeseran dari Generative AI menuju Agentic AI. Bukan lagi soal AI yang menunggu instruksi, melainkan AI yang bergerak mandiri untuk kita."
 date: 2026-06-27
 tags: ["AI", "AgenticAI", "GoogleIO2026", "Gemini", "FutureOfWork", "Productivity", "Leadership"]
@@ -99,7 +99,7 @@ Flash menjadi model default di Gemini app dan AI Mode secara global. Versi Pro-n
 
 Google membalik tren historis mereka: biasanya model Pro yang dirilis dulu, diikuti Flash. Kali ini Flash yang mendahului, karena profil kecepatan dan biayanya yang membuat arsitektur agen bisa diadopsi dalam skala konsumen.
 
-## Yang Perlu Diperhatikan Bukan Developer
+## Yang Perlu Diperhatikan Non Developer
 
 Jika Anda manajer, pemilik bisnis, profesional marketing, atau siapa pun yang pekerjaannya melibatkan informasi dalam jumlah besar, Agentic AI bukan lagi topik teknis yang bisa diabaikan.
 
@@ -127,6 +127,6 @@ Anda tidak perlu menunggu Gemini Spark tersedia global untuk memulai. Beberapa l
 
 ---
 
-Google I/O 2026 menegaskan satu hal: AI bukan lagi sekadar工具 yang kita panggil saat butuh. Ia adalah rekan kerja digital yang selalu aktif, terhubung, dan proaktif. Pertanyaannya bukan apakah kita akan menggunakan AI agentic, tapi bagaimana kita mempersiapkan diri agar bisa memanfaatkannya dengan bijak.
+Google I/O 2026 menegaskan satu hal: AI bukan lagi sekadar alat yang kita panggil saat butuh. Ia adalah rekan kerja digital yang selalu aktif, terhubung, dan proaktif. Pertanyaannya bukan apakah kita akan menggunakan AI agentic, tapi bagaimana kita mempersiapkan diri agar bisa memanfaatkannya dengan bijak.
 
 Karena di era di mana AI bisa bergerak mandiri, yang membedakan profesional yang unggul dari yang biasa saja bukan seberapa cepat mereka mengeksekusi — tapi seberapa baik mereka mengarahkan.
