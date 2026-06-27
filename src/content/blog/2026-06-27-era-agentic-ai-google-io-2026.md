@@ -131,3 +131,11 @@ Anda tidak perlu menunggu Gemini Spark tersedia global untuk memulai. Beberapa l
 Google I/O 2026 menegaskan satu hal: AI bukan lagi sekadar alat yang kita panggil saat butuh. Ia adalah rekan kerja digital yang selalu aktif, terhubung, dan proaktif. Pertanyaannya bukan apakah kita akan menggunakan AI agentic, tapi bagaimana kita mempersiapkan diri agar bisa memanfaatkannya dengan bijak.
 
 Karena di era di mana AI bisa bergerak mandiri, yang membedakan profesional yang unggul dari yang biasa saja bukan seberapa cepat mereka mengeksekusi — tapi seberapa baik mereka mengarahkan.
+
+## Ingin Lebih Dalam? Tonton Sini
+
+Bagi yang ingin mendalami topik ini lebih jauh, video berikut adalah rekaman lengkap sesi "From Generative AI to Agentic AI" dari acara **GDG Surabaya — Build With AI 2026**, yang diunggah oleh channel [WPU](https://www.youtube.com/@webprogrammingunpas) (998K subscribers). Durasi sekitar satu jam, cocok untuk ditonton sambil menikmati kopi sore.
+
+Video ini membahas pergeseran dari Generative AI menuju Agentic AI secara lebih teknis dan interaktif, termasuk demo fitur-fitur terbaru Gemini dan bagaimana agen bisa di-delegasikan untuk tugas nyata. Cocok untuk Anda yang penasaran bagaimana teori yang dibahas di artikel ini diterapkan langsung di lapangan.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/jyU_0TDtwD4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Agentic AI: Oleh-oleh langsung dari Google I/O 2026"></iframe>
