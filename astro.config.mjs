@@ -8,4 +8,9 @@ export default defineConfig({
   adapter: vercel({
     webAnalytics: false,
   }),
+  markdown: {
+    rehypePlugins: [
+      ['rehype-raw', { allowElements: ['iframe'] }],
+    ],
+  },
 });
