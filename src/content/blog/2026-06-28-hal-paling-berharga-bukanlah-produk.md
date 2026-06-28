@@ -4,6 +4,7 @@ description: "AI tidak memvalidasi ide saya, ia justru menantangnya. Pelajaran t
 date: 2026-06-28
 tags: ["AI", "ProductManagement", "Startup", "KecerdasanBuatan", "ProdukDigital", "Mindset"]
 lang: "id"
+image: "/images/hero-hal-paling-berharga-bukanlah-produk.jpg"
 draft: false
 ---
 
