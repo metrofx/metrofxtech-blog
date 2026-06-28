@@ -7,8 +7,6 @@ lang: "id"
 draft: false
 ---
 
-# Hal Paling Berharga yang Saya Bangun Hari Ini Bukanlah Produk. Melainkan Sebuah Pertanyaan.
-
 Hari ini, saya menghabiskan hampir dua jam membedah sebuah ide produk bersama AI.
 
 Semuanya dimulai seperti kebanyakan ide lainnya.
