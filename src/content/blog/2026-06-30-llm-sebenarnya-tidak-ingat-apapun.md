@@ -4,6 +4,7 @@ description: "ChatGPT dan Claude sering terasa seperti benar-benar mengenal kita
 date: 2026-06-30
 tags: ["AI", "LLM", "KecerdasanBuatan", "MachineLearning", "TeknologiAI", "AgentMemory"]
 lang: "id"
+image: "/images/hero-llm-sebenarnya-tidak-ingat-apapun.jpg"
 draft: false
 ---
 
