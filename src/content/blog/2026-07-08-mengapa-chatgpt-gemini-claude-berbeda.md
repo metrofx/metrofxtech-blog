@@ -3,6 +3,7 @@ title: "Mengapa ChatGPT, Gemini, dan Claude Menjawab dengan Cara Berbeda"
 description: "Model AI frontier besar tampak serupa di permukaan, tetapi cara mereka dibuat berbeda. Inilah lima pilihan desain yang menjelaskan gaya jawaban masing-masing."
 date: 2026-07-08
 tags: ["AI", "LLM", "ChatGPT", "Gemini", "Claude", "ArsitekturAI", "MachineLearning", "Teknologi"]
+image: "/images/hero-mengapa-chatgpt-gemini-claude-berbeda.jpg"
 lang: "id"
 draft: false
 ---
