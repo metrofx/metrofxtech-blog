@@ -3,6 +3,7 @@ title: "Anthropic Berhasil \"Mengintip\" Pikiran Claude. Hasilnya Justru Memuncu
 description: "Anthropic memperkenalkan J-Lens, teknik untuk mengamati ruang kerja internal Claude sebelum menghasilkan jawaban. Temuan interpretabilitas ini membuka wawasan baru sekaligus mempertanyakan metode evaluasi keamanan AI."
 date: 2026-07-09
 tags: ["AI", "Anthropic", "Claude", "Interpretability", "J-Lens", "AI Safety", "Language Models", "Machine Learning"]
+image: "/images/anthropic-j-lens-hero.jpg"
 lang: "id"
 draft: false
 ---
