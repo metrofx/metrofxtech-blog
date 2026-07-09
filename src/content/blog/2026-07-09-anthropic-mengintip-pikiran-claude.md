@@ -12,7 +12,7 @@ Oleh banyak orang, model AI seperti Claude, ChatGPT, atau Gemini masih dipandang
 
 Kini, untuk pertama kalinya, Anthropic mengaku berhasil melihat sebagian proses berpikir internal model AI mereka sendiri.
 
-Temuan tersebut dipublikasikan dalam makalah penelitian berjudul "A Global Workspace in Language Models". Para peneliti memperkenalkan sebuah teknik yang mereka sebut J-Lens, alat yang memungkinkan mereka mengamati ruang kerja internal Claude sebelum model itu menghasilkan satu kata pun.
+Temuan tersebut dipublikasikan dalam makalah penelitian berjudul ["A Global Workspace in Language Models"](https://www.anthropic.com/research/global-workspace). Para peneliti memperkenalkan sebuah teknik yang mereka sebut J-Lens, alat yang memungkinkan mereka mengamati ruang kerja internal Claude sebelum model itu menghasilkan satu kata pun.
 
 Yang mereka temukan ternyata jauh lebih menarik daripada sekadar memahami cara AI bekerja.
 
