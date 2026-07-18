@@ -96,19 +96,27 @@ Ini sebabnya persaingan FMCG kini bukan hanya perang merek. Ini perang arsitektu
 
 Unilever masih unggul dalam kekuatan merek, riset produk, dan jaringan bisnis yang besar. Tetapi keunggulan itu tidak otomatis cukup jika konsumen merasa alternatif lokal menawarkan fungsi yang mirip dengan harga lebih rendah.
 
-#### Jangan mudah menyalahkan MBG atas kenaikan harga pangan
+#### MBG: tekanan permintaan pangan yang tidak boleh diremehkan
 
-Dalam situasi daya beli tertekan, kenaikan harga pangan tentu sangat sensitif. Karena itu, muncul dugaan bahwa Program Makan Bergizi Gratis atau MBG ikut mendorong naiknya harga sembako di daerah.
+Perubahan daya beli juga tidak dapat dipisahkan dari biaya hidup, terutama harga pangan. Di sinilah Program Makan Bergizi Gratis, atau MBG, perlu dibahas dengan lebih jernih.
 
-Dugaan ini perlu diperlakukan dengan hati-hati.
+Posisi yang menyatakan MBG tidak memiliki dampak berarti terhadap inflasi pangan sudah tidak memadai. BPS telah menyebut peningkatan permintaan dari dapur MBG atau SPPG sebagai salah satu faktor yang berkontribusi terhadap kenaikan harga telur dan daging ayam pada Oktober 2025. Pada periode itu, telur ayam ras naik 4,43 persen dan memberi andil inflasi 0,04 persen, sementara daging ayam ras naik 1,13 persen dengan andil 0,02 persen. BPS juga mencatat faktor lain, termasuk biaya produksi seperti harga jagung pakan. [BPS](https://www.bps.go.id/id/pressrelease/2025/11/03/2477/inflasi-year-on-year--y-on-y--pada-oktober-2025-sebesar-2-86-persen.html) dan laporan yang mengutip penjelasan BPS menunjukkan bahwa MBG memang telah masuk dalam pembacaan faktor permintaan komoditas tersebut. [Espos](https://ekonomi.espos.id/bps-imbas-program-mbg-harga-telur-dan-ayam-naik-inflasi-sentuh-028-2158339)
 
-Harga beras, telur, ayam, dan komoditas pangan lain memang dapat naik. Tetapi kenaikan harga pangan hampir selalu melibatkan banyak faktor: cuaca, musim panen, biaya pakan, ketersediaan pupuk, distribusi antardaerah, biaya logistik, hingga kebijakan impor dan stok pemerintah.
+Ini logis secara ekonomi. Ketika ribuan dapur membeli telur, ayam, sayuran, dan bahan pangan lain secara rutin dalam skala besar, permintaan meningkat. Jika pembelian terjadi serentak pada komoditas dan wilayah yang sama, sementara pasokan lokal belum bertambah secepat permintaan, harga akan tertekan naik.
 
-Belum ada bukti kausal yang kuat bahwa MBG, pada skala pelaksanaannya hingga pertengahan 2026, menjadi penyebab utama inflasi pangan nasional. Ada kemungkinan permintaan program ini memberi tekanan tambahan di wilayah tertentu, terutama bila pengadaan bahan pangan terkonsentrasi dan pasokan lokal terbatas. Tetapi kemungkinan bukanlah bukti.
+BGN sendiri juga telah bekerja sama dengan BPS untuk menghitung dan memantau dampak penerapan MBG, termasuk dimensi ekonominya. [BGN](https://www.bgn.go.id/news/siaran-pers/bgn-bps-hitung-dampak-penerapan-mbg-terhadap) dan [BPS](https://www.bps.go.id/en/news/2025/04/10/695/the-synergy-between-bps--the-ministry-of-national-development-planning--bappenas---and-the-national-nutrition-agency--bgn-.html) menunjukkan bahwa dampak program sebesar MBG memang perlu diukur, bukan diasumsikan nol.
 
-Untuk menyimpulkan dampak MBG terhadap harga, diperlukan data yang lebih rinci: volume pengadaan per daerah, jumlah penerima program, perubahan harga mingguan, kondisi pasokan, dan pembanding dengan daerah yang tidak mengalami penyerapan serupa.
+Tetapi ada batas penting dalam kesimpulannya.
 
-Menyederhanakan semua kenaikan harga menjadi akibat MBG bukan hanya tidak akurat. Itu juga mengalihkan perhatian dari masalah yang lebih mendasar: rantai pasok pangan Indonesia masih rentan.
+Belum tepat menyederhanakan seluruh inflasi pangan nasional sebagai akibat tunggal MBG. Harga pangan juga dipengaruhi musim, cuaca, siklus panen, produksi, penyakit ternak, biaya pakan, distribusi, serta lonjakan konsumsi musiman seperti Ramadan dan Lebaran. BPS belum memisahkan secara kuantitatif berapa bagian inflasi pangan nasional yang secara khusus berasal dari MBG.
+
+Jadi, formulasi yang paling akurat adalah ini: MBG telah menjadi salah satu pendorong nyata tekanan harga pada komoditas pangan tertentu, khususnya yang dibeli secara masif oleh SPPG. Namun besarnya kontribusi MBG terhadap inflasi pangan nasional secara keseluruhan belum dapat dipisahkan secara presisi dari faktor-faktor lain.
+
+Ini bukan kritik terhadap tujuan programnya. Tujuan perbaikan gizi anak tetap penting. Justru karena skalanya besar, desain pengadaan pangannya harus lebih baik.
+
+Diversifikasi menu adalah langkah awal, tetapi belum cukup. Negara perlu memastikan kontrak pasokan jangka menengah dengan peternak dan petani lokal, pemetaan kebutuhan per wilayah, kalender belanja yang mengikuti musim panen, pengadaan lintas daerah ketika pasokan lokal menipis, serta dashboard terbuka untuk memantau volume pembelian dan harga komoditas utama.
+
+Tanpa itu, program yang bertujuan meningkatkan gizi berisiko menciptakan tekanan harga bagi rumah tangga lain, terutama keluarga berpendapatan rendah yang membeli bahan pangan dari pasar yang sama.
 
 #### Pelajaran yang lebih besar
 
