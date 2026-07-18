@@ -7,8 +7,6 @@ lang: "id"
 draft: false
 ---
 
-*Pelepasan beberapa bisnis global memunculkan kesan bahwa Unilever sedang mundur dari Indonesia. Pembacaan yang lebih tepat: Unilever sedang merapikan portofolio, sementara pasar FMCG Indonesia makin keras bagi merek yang tidak mampu menawarkan nilai nyata kepada konsumen.*
-
 Apakah Unilever sedang meninggalkan Indonesia?
 
 Pertanyaan itu kembali muncul setiap kali ada kabar tentang merek yang dilepas, bisnis yang dipisahkan, atau produk yang menghilang dari rak toko. Blue Band sudah bukan bagian dari Unilever. Bisnis es krim global dipisahkan. Jumlah merek dan varian produk dikurangi. Di tengah itu, muncul pula rumor bahwa Bango dan SariWangi telah dijual kepada kelompok usaha lokal.
