@@ -3,6 +3,7 @@ title: "Unilever Tidak Sedang Pergi, Tetapi Pasar Indonesia Sedang Berubah"
 description: "Pelepasan beberapa bisnis global memunculkan kesan bahwa Unilever sedang mundur dari Indonesia. Pembacaan yang lebih tepat: Unilever sedang merapikan portofolio, sementara pasar FMCG Indonesia makin keras bagi merek yang tidak mampu menawarkan nilai nyata kepada konsumen."
 date: 2026-07-18
 tags: ["FMCG", "Unilever", "Indonesia", "Consumer", "Daya Beli", "MBG", "Bisnis", "Retail", "Value for Money"]
+image: "/images/hero-unilever-indonesia.jpg"
 lang: "id"
 draft: false
 ---
