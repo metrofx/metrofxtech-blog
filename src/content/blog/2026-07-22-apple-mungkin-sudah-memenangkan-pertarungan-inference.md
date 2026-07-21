@@ -3,6 +3,7 @@ title: "Apple Mungkin Sudah Memenangkan Pertarungan Inference, dan Hampir Tak Ad
 description: "Model AI open-weight kini hampir sebagus model berbayar. Pertanyaan yang sebenarnya penting bukan siapa yang membuat model terbaik, melainkan di hardware siapa model-model itu akan berjalan."
 date: 2026-07-22
 tags: ["Apple", "NVIDIA", "AI", "Inference", "UnifiedMemory", "MLX", "OpenWeight", "Hardware", "EdgeAI"]
+image: "/images/hero-apple-inference.jpg"
 lang: "id"
 draft: false
 ---
