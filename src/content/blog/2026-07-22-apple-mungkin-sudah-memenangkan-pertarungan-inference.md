@@ -92,6 +92,8 @@ Training tetap di datacenter. CUDA tetap moat nyata bagi peneliti. Lab akan teru
 
 Menjadi raja training sementara inference beralih ke lokal adalah menjadi raja dari bagian menyusut dari pasar yang dulu Anda miliki seluruhnya.
 
+Perlu dibedakan dengan jelas: Apple memenangkan pertarungan inference lokal dan pribadi. Inference skala enterprise — melayani ribuan pengguna sekaligus dengan batching, reliabilitas, dan throughput tinggi — masih menjadi domain NVIDIA dan datacenter. Yang sedang berubah bukanlah seluruh pasar inference, melainkan bagian inference yang bisa dilakukan secara lokal: pengembangan pribadi, riset, prototype, kebutuhan privasi data sensitif, dan penggunaan AI di rumah serta kantor kecil. Bagian inilah yang sebelumnya diasumsikan akan selalu mengalir ke cloud, padahal kini mulai mandiri.
+
 Bukti paling menarik: lihat apa yang NVIDIA jual sekarang. DGX Spark, personal AI supercomputer untuk meja Anda, adalah kotak kecil senyap dengan 128GB unified memory yang dibagi CPU dan GPU. Terdengar familiar? Itu Mac Studio. NVIDIA, perusahaan yang imperiumnya dibangun pada GPU diskrit dengan VRAM diskrit di rak terpusat, sekarang mengirim arsitektur Apple pada form factor Apple untuk use case Apple.
 
 Raja datacenter sedang melakukan hedge ke dalam tesis ini dengan lini produknya sendiri.
