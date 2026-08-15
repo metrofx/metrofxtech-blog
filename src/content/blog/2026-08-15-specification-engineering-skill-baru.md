@@ -59,7 +59,7 @@ Mau AI analisis data penjualan? Jangan cuma bilang "kasih saya insight." Tentuka
 
 Mau AI bantu riset pasar? Jangan cuma bilang "cari informasi tentang kompetitor." Spesifikasikan: aspek apa yang ingin dibandingkan, sumber yang bisa dipercaya, dan bagaimana hasil akhirnya akan dipakai untuk pengambilan keputusan.
 
-**AI tidak menghilangkan kebutuhan akan kejelasan berpikir. Ia justru memperbesar hadiah dari memilikinya.**
+**AI tidak menghilangkan kebutuhan akan kejelasan berpikir. Ia hanya membuat yang jelas semakin jelas, dan yang kabur semakin berbahaya.**
 
 ## Workflow baru
 
