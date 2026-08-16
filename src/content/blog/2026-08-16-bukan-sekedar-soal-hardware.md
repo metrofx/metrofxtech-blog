@@ -5,6 +5,7 @@ date: 2026-08-16
 tags: ["Smartphone", "UserExperience", "Technology", "Android", "Loyalty"]
 lang: "id"
 draft: false
+image: "/images/hero-bukan-sekedar-soal-hardware.jpg"
 ---
 
 ### Bukan Soal Spek, Mungkin Kita Sebenarnya Loyal pada Rasa Nyaman di Dalam OS
