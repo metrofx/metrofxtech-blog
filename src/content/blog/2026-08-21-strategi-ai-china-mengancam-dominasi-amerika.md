@@ -3,6 +3,7 @@ title: "Strategi AI China yang Mengancam Dominasi Amerika"
 description: "Perusahaan Amerika mulai beralih ke model AI China. Bukan karena lebih canggih, melainkan karena jauh lebih murah dan cukup baik untuk sebagian besar kasus bisnis."
 date: 2026-08-21
 tags: ["AI", "China", "OpenAI", "StrategiBisnis", "ModelAI", "EkosistemDigital", "Geopolitik"]
+image: "/images/hero-2026-08-21-strategi-ai-china.jpg"
 lang: "id"
 draft: false
 ---
