@@ -108,6 +108,8 @@ Filosofi pertama dibangun untuk dunia di mana AI masih langka dan eksklusif. Fil
 
 Dunia sedang bergerak menuju yang kedua. Dan ketika itu terjadi, perusahaan yang bertahan bukanlah yang memiliki model terhebat. Melainkan yang memiliki arsitektur paling efisien.
 
-Build-out hyperscale yang membenarkan valuasi triliunan dolar NVIDIA mengasumsikan bahwa AI akan selalu menjadi produk premium. Padahal, realitas yang sedang terbentuk adalah AI yang menjadi komoditas. Dan komoditas tidak memiliki margin.
+Realitas yang sedang terbentuk adalah AI generik yang semakin terkomoditisasi. Dalam pasar seperti ini, margin tidak hilang, tetapi bergeser: dari model dasar ke skala infrastruktur, distribusi, data proprietary, integrasi workflow, dan ekosistem.
+
+Pertanyaan strategisnya bukan apakah AI masih punya margin, melainkan siapa yang akan menguasai titik-titik bernilai tinggi ketika model dasar tidak lagi menjadi pembeda utama.
 
 Sumber: [YouTube Video](https://youtu.be/-fDQXVDlbCI?si=s36nbkKvuMX5FyXs) oleh Dr. Indrawan Nugroho, 2026.
