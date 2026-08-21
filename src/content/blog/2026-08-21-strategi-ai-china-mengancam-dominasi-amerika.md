@@ -109,4 +109,4 @@ Dunia sedang bergerak menuju yang kedua. Dan ketika itu terjadi, perusahaan yang
 
 Build-out hyperscale yang membenarkan valuasi triliunan dolar NVIDIA mengasumsikan bahwa AI akan selalu menjadi produk premium. Padahal, realitas yang sedang terbentuk adalah AI yang menjadi komoditas. Dan komoditas tidak memiliki margin.
 
-Sumber: [YouTube Video](https://youtu.be/-fDQXVDlbCI?si=s36nbkKvuMX5FyXs) oleh [Channel Name], 2026.
+Sumber: [YouTube Video](https://youtu.be/-fDQXVDlbCI?si=s36nbkKvuMX5FyXs) oleh Dr. Indrawan Nugroho, 2026.
