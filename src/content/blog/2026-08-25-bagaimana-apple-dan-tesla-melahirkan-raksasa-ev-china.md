@@ -5,6 +5,7 @@ date: 2026-08-25
 tags: ["China", "Apple", "Tesla", "BYD", "EV", "Manufacturing", "SupplyChain", "Geopolitics"]
 lang: "id"
 draft: false
+image: "/images/hero-apple-tesla-raksasa-ev-china.jpg"
 ---
 
 2025 menjadi tahun ketika peta jalan raya dunia resmi berganti kepemilikan. Untuk pertama kalinya dalam sejarah modern, China melampaui Jepang sebagai eksportir mobil nomor satu di dunia dengan mengirimkan 7,1 juta unit kendaraan ke luar negeri.
