@@ -5,6 +5,7 @@ date: 2026-09-07
 tags: ["AI", "Anthropic", "OpenAI", "Komputasi", "Margin", "Datacenter", "Geopolitik", "Ekonomi"]
 lang: "id"
 draft: false
+image: /images/2026-09-07-dari-1-jadi-100-komputasi-dunia.jpg
 ---
 
 Dua laboratorium. Dua perusahaan. Satu planet.
