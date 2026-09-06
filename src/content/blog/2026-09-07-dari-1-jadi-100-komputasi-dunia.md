@@ -78,4 +78,4 @@ Valuasi triliunan dolar di pasar modal mengasumsikan ini masih kompetisi terbuka
 
 ---
 
-*Sumber: Podcast Ethan Mollick x Dylan Patel, founder SemiAnalysis. YouTube, 2026.*
+*Sumber: [Podcast Ethan Mollick x Dylan Patel](https://youtu.be/aV26V1UvkJw), founder SemiAnalysis. YouTube, 2026.*
