@@ -3,6 +3,7 @@ title: "Misteri Arsip Ibam dan Taktik Deadman Switch"
 description: "Aksi Ibrahim Arief menyebarkan arsip terenkripsi lewat BitTorrent bukan tindakan acak. Ini adalah aplikasi klasik dari deadman switch, mekanisme asuransi digital yang memaksa kebenaran tetap terungkap meski pemiliknya hilang."
 date: 2026-09-10
 tags: ["DeadmanSwitch", "KeamananData", "Kriptografi", "BitTorrent", "Ibam", "AktivismeDigital", "ArsipDigital"]
+image: "/images/hero-arsip-ibam-deadman-switch.jpg"
 lang: "id"
 draft: false
 ---
