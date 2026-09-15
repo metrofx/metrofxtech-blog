@@ -5,6 +5,7 @@ date: 2026-09-15
 tags: ["AI", "Agent Swarm", "OpenAI", "HuggingFace", "Keamanan AI", "Risiko AI", "Regulasi AI", "Autonomous Systems"]
 lang: "id"
 draft: false
+image: "/images/saat-ketakutan-tentang-ai-mulai-terasa-masuk-akal.jpg"
 ---
 
 ## Saat Ketakutan tentang AI Mulai Terasa Masuk Akal
