@@ -5,6 +5,7 @@ date: 2026-09-22
 tags: ["AI", "Safety", "RecursiveSelfImprovement", "ASI", "AIAlignment", "Otomasi", "GeopolitikAI"]
 lang: "id"
 draft: false
+image: "/images/hero-recursive-self-improvement.jpg"
 ---
 
 September 2026. Tidak ada pengumuman besar. Tidak ada konferensi pers. Yang terjadi jauh lebih sunyi dan jauh lebih berbahaya: beberapa lab AI secara diam-diam mulai menggunakan output satu model untuk melatih arsitektur model berikutnya. **Recursive Self-Improvement**, atau RSI, berhenti menjadi konsep di paper penelitian dan mulai berjalan di pipeline produksi.
