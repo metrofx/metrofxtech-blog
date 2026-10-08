@@ -108,8 +108,20 @@ Aturan pertama monopoli: **jangan pernah mengaku kamu monopoli**. De Beers, Luxo
 
 China melewati garis itu pada 4 April 2025.
 
-Orang-orang yang membuat video YouTube sepuluh tahun lalu mengatakan ini alasannya. Kamu tidak mendengarkan. Mereka benar.
+## Kedaulatan yang Ditunda
+
+AirPods butuh 6 magnet. iPhone butuh 12. Motor listrik butuh 12 pon neodymium. Rudal Tomahawk butuh 12 magnet di setiap sirip.
+
+Semua angka ini bermuara ke satu tempat: China.
+
+Ini bukan soal tambang. Ini bukan soal mineral. Ini soal rantai pasok yang dibangun selama dua dekade, langkah demi langkah, dengan kesabaran strategis yang hampir tidak bisa dipercaya. State-backed capital, proteksi domestik, dumping harga, dan penyerapan teknologi.
+
+Ketika dominasi itu akhirnya digunakan sebagai senjata pada April 2025, dunia barat baru sadar. Kita sudah bermain di lapangan China selama 20 tahun. Kita menikmati harga murah, teknologi canggih, dan kenyamanan. Tapi kita lupa bahwa setiap produk yang kita buat, setiap perangkat yang kita jual, setiap rudal yang kita luncurkan, tergantung pada satu negara yang tidak perlu kita sukai.
+
+Sekarang, kita harus membangun ulang. Bukan hanya tambang. Bukan hanya pabrik. Tapi seluruh cara berpikir tentang kedaulatan teknologi.
+
+Karena pelajaran dari monopoli magnet China bukan soal rare earth. Pelajarannya adalah ini: **jika kamu tidak membuat sendiri sesuatu yang kamu butuhkan untuk bertahan hidup, kamu tidak pernah benar-benar bebas.**
 
 ---
 
-*Sumber: Video "[Judul Asli](https://youtu.be/BXLGV0Sj0n8)" oleh Johnny Harris, 2025.*
+*Sumber: Video "[The $10 Billion Hunt for the Rocks That Power the World](https://youtu.be/BXLGV0Sj0n8)" oleh Johnny Harris, 2025.*
