@@ -3,6 +3,7 @@ title: "4 Langkah China Membangun Monopoli Magnet Dunia"
 description: "Bukan cerita geopolitik biasa. Ini bedah strategi moat-building paling brutal di abad 21 — dari baterai AirPodsmu sampai rudal Tomahawk."
 date: 2026-10-08
 tags: ["Geopolitik", "Rare Earth", "China", "Monopoli", "Supply Chain", "Teknologi", "Pertahanan"]
+image: "/images/hero-4-langkah-monopoli-magnet-china.jpg"
 lang: "id"
 draft: false
 ---
