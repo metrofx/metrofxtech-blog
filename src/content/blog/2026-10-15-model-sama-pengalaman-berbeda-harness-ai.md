@@ -3,6 +3,7 @@ title: "Model Sama, Pengalaman Berbeda: Mengapa Harness AI Penting"
 description: "Catatan dari penggunaan Qwen 3.8 Flash lewat tiga harness, dan mengapa evaluasi AI agent perlu melihat lingkungan kerjanya, bukan model saja."
 date: 2026-10-15
 tags: ["AI", "AI Agent", "Harness", "Qwen", "Claude Code", "OpenCode", "Hermes Agent"]
+image: "/images/hero-model-sama-pengalaman-berbeda-harness-ai.jpg"
 lang: "id"
 draft: false
 ---
