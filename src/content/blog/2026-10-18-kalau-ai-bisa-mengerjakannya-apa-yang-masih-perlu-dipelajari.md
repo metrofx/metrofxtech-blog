@@ -3,6 +3,7 @@ title: "Kalau AI Bisa Mengerjakannya, Apa yang Masih Perlu Dipelajari?"
 description: "Ketika AI agent mampu mengeksekusi tutorial apa pun dalam hitungan detik, ukuran belajar bergeser dari sekadar membuat sesuatu menjadi kemampuan menguji dan mengambil keputusan."
 date: 2026-10-18
 tags: ["ArtificialIntelligence", "SoftwareEngineering", "Learning", "Productivity", "Mindset"]
+image: "/images/2026-10-18-kalau-ai-bisa-mengerjakannya.jpg"
 lang: "id"
 draft: false
 ---
